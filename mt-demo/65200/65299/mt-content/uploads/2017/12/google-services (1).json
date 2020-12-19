@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "546280435557",
+    "firebase_url": "https://quarantinesavor.firebaseio.com",
+    "project_id": "quarantinesavor",
+    "storage_bucket": "quarantinesavor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546280435557:android:b3fc0a0e88a98197967b8c",
+        "android_client_info": {
+          "package_name": "com.example.qurantinesavor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546280435557-0dhrgpsqagdhu49pijsvtdtdnuhje9v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYuELlNAnww5_2CT1EBYk_cAlfn5Oq7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546280435557-0dhrgpsqagdhu49pijsvtdtdnuhje9v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
